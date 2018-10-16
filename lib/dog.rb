@@ -6,7 +6,7 @@ class Dog
      
   end 
   
- # def name=(name)
+ =begin def name=(name)
     @name = name
   end 
   
@@ -21,8 +21,8 @@ class Dog
   
   def breed
     @breed
-  end #
-  
+  end 
+ =end  
   
 end 
 
