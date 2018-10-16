@@ -6,7 +6,8 @@ class Dog
      
   end 
   
- =begin def name=(name)
+ =begin 
+ def name=(name)
     @name = name
   end 
   
